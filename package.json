@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  },
+  "name": "rededodinheiro",
+  "description": "Inteligência Artificial aplicada à busca e análise de dados de fontes públicas para encontrar padrões financeiros no cenário político-eleitoral brasileiro.",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/requestmm/rededodinheiro.git"
+  },
+  "author": "Mateus Mesquita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/requestmm/rededodinheiro/issues"
+  },
+  "homepage": "https://github.com/requestmm/rededodinheiro#readme"
+}
