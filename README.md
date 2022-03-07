@@ -1,5 +1,3 @@
-# Rede do Dinheiro
+# Brazilian Political Network
 
-Inteligência Artificial aplicada à busca e análise de dados de fontes públicas para encontrar padrões financeiros no cenário político-eleitoral brasileiro.
-
-# Instruções para desenvolvedores
+Brazilian Political Network is a software to discover relationships between brazilians politicians and electoral donators, using Artificial Intelligence and Robotic Process Automation to make a Social Network Analysis and improve gov transparency. 
